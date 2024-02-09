@@ -1,0 +1,5 @@
+D:\C#\AsnnchronousProgram\obj\Debug\net8.0\AsnnchronousProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AsnnchronousProgram\obj\Debug\net8.0\AsnnchronousProgram.AssemblyInfoInputs.cache
+D:\C#\AsnnchronousProgram\obj\Debug\net8.0\AsnnchronousProgram.AssemblyInfo.cs
+D:\C#\AsnnchronousProgram\obj\Debug\net8.0\AsnnchronousProgram.csproj.CoreCompileInputs.cache
+D:\C#\AsnnchronousProgram\obj\Debug\net8.0\AsnnchronousProgram.sourcelink.json

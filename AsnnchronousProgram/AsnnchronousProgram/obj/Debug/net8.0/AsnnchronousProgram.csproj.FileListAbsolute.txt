@@ -1,0 +1,15 @@
+D:\C#\AsnnchronousProgram\AsnnchronousProgram\bin\Debug\net8.0\AsnnchronousProgram.exe
+D:\C#\AsnnchronousProgram\AsnnchronousProgram\bin\Debug\net8.0\AsnnchronousProgram.deps.json
+D:\C#\AsnnchronousProgram\AsnnchronousProgram\bin\Debug\net8.0\AsnnchronousProgram.runtimeconfig.json
+D:\C#\AsnnchronousProgram\AsnnchronousProgram\bin\Debug\net8.0\AsnnchronousProgram.dll
+D:\C#\AsnnchronousProgram\AsnnchronousProgram\bin\Debug\net8.0\AsnnchronousProgram.pdb
+D:\C#\AsnnchronousProgram\AsnnchronousProgram\obj\Debug\net8.0\AsnnchronousProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AsnnchronousProgram\AsnnchronousProgram\obj\Debug\net8.0\AsnnchronousProgram.AssemblyInfoInputs.cache
+D:\C#\AsnnchronousProgram\AsnnchronousProgram\obj\Debug\net8.0\AsnnchronousProgram.AssemblyInfo.cs
+D:\C#\AsnnchronousProgram\AsnnchronousProgram\obj\Debug\net8.0\AsnnchronousProgram.csproj.CoreCompileInputs.cache
+D:\C#\AsnnchronousProgram\AsnnchronousProgram\obj\Debug\net8.0\AsnnchronousProgram.sourcelink.json
+D:\C#\AsnnchronousProgram\AsnnchronousProgram\obj\Debug\net8.0\AsnnchronousProgram.dll
+D:\C#\AsnnchronousProgram\AsnnchronousProgram\obj\Debug\net8.0\refint\AsnnchronousProgram.dll
+D:\C#\AsnnchronousProgram\AsnnchronousProgram\obj\Debug\net8.0\AsnnchronousProgram.pdb
+D:\C#\AsnnchronousProgram\AsnnchronousProgram\obj\Debug\net8.0\AsnnchronousProgram.genruntimeconfig.cache
+D:\C#\AsnnchronousProgram\AsnnchronousProgram\obj\Debug\net8.0\ref\AsnnchronousProgram.dll

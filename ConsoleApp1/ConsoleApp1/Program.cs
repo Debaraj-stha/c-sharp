@@ -14,9 +14,7 @@ class Program
         Employee E = new Employee(33, "Mandip", "Dharan", 400000);
         E.display();
 
-        Employee E1 = new Employee();
-        E1.setData();
-        E1.display();
+     
        
         
         College college = new College();
