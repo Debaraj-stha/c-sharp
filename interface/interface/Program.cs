@@ -1,40 +1,4 @@
-﻿using System;
-
-/*using  Mynamespace;
-    class Program{
-        public static void Main(){
-        Console.WriteLine("hello world  ggg ");
-         Myclass c=new Myclass();
-            c.messag();
-        IShape shape=new Circle(5)
-           double area = shape.calculateAre();
-        Console.WriteLine(area);
-        }
-    }
-
-public interface IShape
-{
-    double CalculateArea();
-    double CalculatePerimeter();
-}
-
-public class Circle : IShape
-{
-    private double radius ;
-    public Curcle(double radius)
-    {
-        this.radius = radius;
-    }
-    public double CalculateArea()
-    {
-        returm Math.PI* radius;
-    }
-    public double CalculatePerimeter()
-    {
-        return 2 * Math.PI * radius;
-    }
-}*/
-// Define the interface
+﻿// Define the interface
 public interface IShape
 {
     double CalculateArea();
@@ -52,7 +16,7 @@ public class Circle : IShape
 
     public double CalculateArea()
     {
-        return  Radius * Radius;
+        return Math.PI * Radius * Radius;
     }
 }
 
